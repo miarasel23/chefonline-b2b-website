@@ -17,6 +17,7 @@
 /public/hot
 /public/storage
 /public/assets/video
+/public/hayper
 /storage/*.key
 /storage/pail
 /vendor
